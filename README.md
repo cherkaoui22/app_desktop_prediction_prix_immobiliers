@@ -366,4 +366,4 @@ Toute reproduction à des fins commerciales est interdite.
 
 ---
 
-*Développé avec ❤️ et ☕ par le Groupe IA101/IA102 — ISTA NTIC SYBA 2025/2026*
+*Développé avec ❤️ et ☕ par le Groupe IA101 — ISTA NTIC SYBA 2025/2026*
