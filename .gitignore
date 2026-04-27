@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+
+# Modèles générés
+models/app.db
+models/*.pkl
+models/metadata.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads utilisateurs
+app/assets/uploads/
+*.jpeg
+*.jpg
+*.png
+!app/assets/logo.png
